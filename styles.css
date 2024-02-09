@@ -10,13 +10,13 @@ body {
 
 .left-column {
 	flex: 1;
-	background-colour: #355E3B;
+	background-colour: dark blue;
 	padding: 20px;
 }
 
 .right-column {
 	flex: 1;
-	background-color: lightgrey;
+	background-color: light grey;
 	padding: 20px;
 }
 
