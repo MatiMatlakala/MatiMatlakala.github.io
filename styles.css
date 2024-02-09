@@ -10,7 +10,7 @@ body {
 
 .left-column {
 	flex: 1;
-	background-colour: huntergreen;
+	background-colour: #355E3B;
 	color: white;
 	padding: 20px;
 }
