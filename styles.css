@@ -11,13 +11,12 @@ body {
 .left-column {
 	flex: 1;
 	background-colour: #355E3B;
-	color: white;
 	padding: 20px;
 }
 
 .right-column {
 	flex: 1;
-	background-color: white;
+	background-color: lightgrey;
 	padding: 20px;
 }
 
