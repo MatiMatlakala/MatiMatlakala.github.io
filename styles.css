@@ -1,0 +1,32 @@
+body {
+	font-family: Arial, sans serif;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	display: flex;
+}
+
+.left-column {
+	flex: 1;
+	background-colour: huntergreen;
+	color: white;
+	padding: 20px;
+}
+
+.right-column {
+	flex: 1;
+	background-color: white;
+	padding: 20px;
+}
+
+.profile-picture {
+	max-width: 100%;
+	border-radius: 50%;
+}
+
+.project-image {
+	max-width: 100%;
+	margin-bottom: 10px;
+}
