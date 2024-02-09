@@ -10,19 +10,35 @@ display: flex;
 
 .left-column {
 flex: 1;
-background-color: darkblue;
+background-color: #556B2F;
 padding: 20px;
 }
 
 .right-column {
-flex: 1;
-background-color: lightgrey;
+flex: 2;
+background-color: #8FBC8F;
 padding: 20px;
 }
 
 .profile-picture {
 max-width: 100%;
 border-radius: 50%;
+float: right;
+margin-left: 10px
+}
+
+.contact-list {
+list-style-type: none;
+padding: 0;
+}
+
+.contact-list li {
+margin-bottom: 10px;
+}
+
+.contact-list li a img {
+vertical-align: middle;
+margin-right: 5px;
 }
 
 .project-image {
