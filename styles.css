@@ -10,13 +10,13 @@ display: flex;
 
 .left-column {
 flex: 1;
-background-color: #556B2F;
+background-color: darkolivegreen;
 padding: 20px;
 }
 
 .right-column {
 flex: 2;
-background-color: #8FBC8F;
+background-color: #a0a0a0;
 padding: 20px;
 }
 
